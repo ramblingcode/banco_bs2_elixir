@@ -1,6 +1,6 @@
 defmodule BancoBs2.Entities.Client do
   @moduledoc """
-    `Client` struct holding `OAuth` information.
+    Struct holding `OAuth` information.
 
     Filled after successful authentication.
     To be used in further API requests.
